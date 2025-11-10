@@ -19,7 +19,7 @@ Free Online Courses by Harvard, Google, Stanford, IBM, etc with many providing f
 | Introduction to Generative AI                         | Class Central                    | https://www.classcentral.com/course/introduction-to-generative-ai-199878                     |
 | Android Basics in Compose                             | Android Developers               | https://developer.android.com/courses/android-basics-compose/course                         |
 | Best Blockchain Development Courses                   | Class Central                    | https://www.classcentral.com/report/best-blockchain-development-courses/                     |
-| Advanced Cybersecurity Program   | Stanford University | [Linl](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview | 
+| Advanced Cybersecurity Program   | Stanford University| (https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview | 
 | Generative AI Explained                               | NVIDIA                           | https://resources.nvidia.com/en-eu-ai-buying-campaign-fy25q1/generative-ai-explained         |
 | Fundamentals of Generative AI                         | NVIDIA                           | https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1            |
 | Cybersecurity Basics                                  | Google                           | https://grow.google/intl/en_in/cybersecurity-course/                                         |
